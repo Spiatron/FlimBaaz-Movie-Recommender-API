@@ -5,3 +5,4 @@ numpy==2.2.6
 scikit-learn==1.7.2
 joblib==1.5.3
 requests==2.32.5
+python-dotenv
